@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: 
-heroText: StreamAss
+heroText: StreamerBuddy
 tagline: Wiki, Guides und Dokus
 actionText: Lass anfangen →
 actionLink: /de/guides/
@@ -11,6 +11,7 @@ features:
 - title: Documentation
   details: Detailled and browsable Documentation
 - title: Wiki
-  details: Information around SA
-footer: Copyright © 2019 StreamAss | Created by Brain
+  details: Information around SB
+footer: Copyright © 2019 StreamerBuddy | Created by Brain
 ---
+
