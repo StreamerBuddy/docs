@@ -11,7 +11,7 @@ features:
 - title: Documentation
   details: Detailled and browsable Documentation
 - title: Wiki
-  details: Information around SB
+  details: Informationen rund um SB
 footer: Copyright © 2019 StreamerBuddy | Created by Brain
 ---
 
